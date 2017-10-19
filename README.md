@@ -37,7 +37,7 @@ Do **not** include:
 
 Format your solution like this:
 
-/section/subsection/challengeNumber-challengeName.md
+*/section/subsection/challengeNumber-challengeName.md*
 
 # Challenge Title
 
@@ -48,7 +48,7 @@ Format your solution like this:
 
 Example expected input / output
 
-### Any helpful tips / documentation
+## Any helpful tips / documentation
 MDN docs or hints
 
 ## Solutions
