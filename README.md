@@ -1,10 +1,10 @@
 # CodeFights-Solutions-JS
-Solutions to various problems in JS, on CodeFights.
+Solutions to various problems in JS, on [CodeFights](https://codefights.com/).
 
 ## Contributing
-Put solution in appropiate folder / file, make a new folder for each new section on CodeFights.
+Put solution in appropiate folder / file, make a new folder for each new section on CodeFights. Solutions should be in JavaScript only.
 
-The section the folders should be:
+The section folders should be:
 
 - **Arcade**
   - Intro
