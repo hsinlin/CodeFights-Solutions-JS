@@ -14,6 +14,7 @@ areEquallyStrong(yourLeft, yourRight, friendsLeft, friendsRight) = true
 
 ### Helpful tips / Documentation
 [Math.max](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/max)
+
 [Math.min](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/min)
 
 ## Solutions
