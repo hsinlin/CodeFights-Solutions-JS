@@ -39,20 +39,20 @@ Format your solution like this:
 
 */section/subsection/challengeNumber-challengeName.md*
 
-# Challenge Title
+# challengeNumber. Challenge Title
 
-## Problem
+### Problem
 ( What the problem says on CodeFights )
 
 **Example**
 
 Example expected input / output
 
-## Any helpful tips / documentation
+### Tips / Documentation
 MDN docs or hints
 
 ## Solutions
 Should have explanations and commented code.
 
-## Anything else that should be included
+### Anything else that should be included
 ...
