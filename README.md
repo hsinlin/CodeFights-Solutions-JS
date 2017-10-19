@@ -1,8 +1,8 @@
 # CodeFights-Solutions-JS
-Solutions to various problems in JS, on [CodeFights](https://codefights.com/).
+Solutions to various problems on [CodeFights](https://codefights.com/)
 
 ## Contributing
-Put solution in appropiate folder / file, make a new folder for each new section on CodeFights. Solutions should be in JavaScript only.
+Put solution in appropiate folder / file, make a new folder for each new section on CodeFights. Solutions should be in JavaScript only ( *except the Python section* ).
 
 The section folders should be:
 
