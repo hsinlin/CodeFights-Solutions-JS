@@ -37,10 +37,16 @@ Do **not** include:
 
 Format your solution like this:
 
+/section/subsection/challengeNumber-challengeName.md
+
 # Challenge Title
 
-## Challenge Explanation
+## Problem
 ( What the problem says on CodeFights )
+
+**Example**
+
+Example expected input / output
 
 ### Any helpful tips / documentation
 MDN docs or hints
