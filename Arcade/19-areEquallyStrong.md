@@ -1,6 +1,6 @@
-# areEquallyStrong
+# 19. areEquallyStrong
 
-## Challenge Explanation
+### Problem
 "Call two arms equally strong if the heaviest weights they each are able to lift are equal.
 
 Call two people equally strong if their strongest arms are equally strong (the strongest arm can be both the right and the left), and so are their weakest arms.
@@ -12,8 +12,8 @@ Given your and your friend's arms' lifting capabilities find out if you two are 
 For yourLeft = 10, yourRight = 15, friendsLeft = 15 and friendsRight = 10, the output should be
 areEquallyStrong(yourLeft, yourRight, friendsLeft, friendsRight) = true
 
-### Any helpful tips / documentation
-[Math.xax](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/max)
+### Helpful tips / Documentation
+[Math.max](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/max)
 [Math.min](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/min)
 
 ## Solutions
